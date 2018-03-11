@@ -1,0 +1,2 @@
+# Analyzing-DST-Index
+The disturbance storm time (Dst) index is a measure in the context of space weather. It gives information about the strength of the ring current around Earth caused by solar protons and electrons. This Project aims at analyzing the Disturbance storm time(DST) index using a web tool and then making useful insights and visualizations on the DST index over the last several years.
