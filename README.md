@@ -3,11 +3,11 @@ The disturbance storm time (Dst) index is a measure in the context of space weat
 
 This Project aims at analyzing the Disturbance storm time(DST) index using a web tool and then making useful insights and visualizations on the DST index over the last several years.It consists of mainly three SubProjects:
 
- - Developing a web-tool plotting DST index
+ - **Developing a web-tool plotting DST index**
  
- - Developing a Database that allows querying DST index
+ - **Developing a Database that allows querying DST index**
  
- - Analyzing DST index & generating useful insights and visualizations
+ - **Analyzing DST index & generating useful insights and visualizations**
 
 ## Getting Started
 **Dependencies**
